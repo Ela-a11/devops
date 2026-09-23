@@ -1,0 +1,3 @@
+ERROR Database connection failed
+ERROR File not found
+ERROR Permission denied
