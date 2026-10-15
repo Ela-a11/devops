@@ -1,3 +1,4 @@
 .DS_Store
 week04/backups/
 week04/restore-check/
+.env
